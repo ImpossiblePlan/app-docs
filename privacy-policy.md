@@ -1,5 +1,5 @@
 ## Privacy Policy (English Version)
-Last Updated: July 8, 2025
+Last Updated: Sep 18, 2025
 
 ### Introduction
 This privacy policy explains how we collect, use, and protect your information when you use this application.
