@@ -10,6 +10,8 @@ This application needs access to:
 - Camera (used for real-time mirror, selfie, and magnifier functions)
 - Local storage (used for basic application functions)
 - Photo library (only used to save photos you take)
+- Push Notifications (to remind you to drink water)
+- Background Task Scheduler (to refresh reminders and notifications)
 All features run locally on your device. If you enable iCloud, synchronized data will be encrypted and stored in your iCloud account. We do not collect, store, or transmit any user data to our own servers.
 
 ### How Information Is Used
@@ -17,6 +19,7 @@ All features run locally on your device. If you enable iCloud, synchronized data
 - We do not collect, store, or transmit any personal information to external servers
 - Camera access is only used for real-time display and taking photos, photos are only stored in your device's photo album when you choose to save them
 - Motion data is only used for gesture detection
+- Notifications and background tasks are scheduled locally and via Apple’s secure services; no user content is collected.
 
 ### Data Storage and Security
 - Most data is only stored locally on your device; if you enable iCloud, synchronized data will be encrypted and stored in your iCloud account, and protected by Apple's privacy policy
@@ -56,7 +59,7 @@ If you have any questions about this privacy policy, please contact us at [ chat
         
 
 ## 隐私政策（中文版）
-最后更新日期：2025-07-08
+最后更新日期：2025-09-18
 
 ### 简介
 本隐私政策说明了您在使用本应用时，我们如何收集、使用和保护您的信息。
@@ -67,13 +70,16 @@ If you have any questions about this privacy policy, please contact us at [ chat
 - 相机（用于实时镜像、自拍和放大镜功能） 
 - 本地存储（用于基本应用功能）
 - 照片库（仅用于保存您拍摄的照片）
-所有功能均在您的设备本地运行。如您启用 iCloud，同步数据将加密后存储在您的 iCloud 账户。我们不会收集、存储或传输任何用户数据至我们自己的服务器。
+- 应用会请求推送通知权限(用于饮水提醒)
+- 应用使用 iOS 后台任务功能(仅会在本地存储下一次提醒时间等调度信息，不会传输任何个人数据)
+所有功能均在您的设备本地运行。如您启用 iCloud，同步数据将加密后存储在您的 iCloud 账户。通知计划仅在您的设备本地及 Apple 推送通知服务中完成，我们不会收集、存储或传输任何用户数据至我们自己的服务器。
 
 ### 信息的使用方式
 - 所有数据处理均在您的设备本地完成
 - 我们不会收集、存储或传输任何个人信息至外部服务器
 - 相机访问仅用于实时显示和拍摄照片，照片仅在您选择保存时才会存储到您的设备相册中 
 - 运动数据仅用于手势检测
+- 通知和后台任务通过本地及苹果的安全服务进行调度，不会收集任何用户内容
 
 ### 数据存储与安全
 - 大部分数据仅存储在您的设备本地；如您启用 iCloud，同步数据将加密后存储在您的 iCloud 账户，并受 Apple 隐私政策保护
