@@ -4,7 +4,7 @@ Last Updated: April 07, 2026
 
 ## Introduction
 
-This Privacy Policy explains how information is handled when you use the MiroPro mobile application ("the App"). We are committed to protecting your privacy and ensuring transparency in how data is processed.
+This Privacy Policy explains how information is handled when you use the miroro mobile application ("the App"). We are committed to protecting your privacy and ensuring transparency in how data is processed.
 
 ---
 
@@ -19,8 +19,22 @@ The App may request access to the following:
 ## How Information Is Used
 
 - All data processing is performed locally on your device.
-- We do not collect, store, or transmit personal information to external servers.
+- We do not collect or transmit personal data to our servers.
+- All processing is performed locally on your device. Certain features may interact with system frameworks (such as Apple Health) only with your explicit permission.
 - Camera access is used solely for real-time display.
+
+---
+## Health Data (if applicable)
+
+With your permission, the App may write mood or mental state data to Apple Health.
+
+- The App does not read or access any health data from Apple Health.
+- Data is written only when you explicitly choose to record your state.
+- All health data is stored and managed by Apple.
+
+Depending on your device or system version, this feature may use related system categories (such as Mindfulness) provided by Apple Health.
+
+We do not collect, store, or transmit any health data to external servers.
 
 ---
 
@@ -83,8 +97,23 @@ If you have any questions about this privacy policy, please contact us at [ chat
 ## 信息的使用方式
 
 - 所有数据处理均在您的设备本地完成  
-- 我们不会收集、存储或传输任何个人信息至外部服务器  
+- 我们不会收集或向服务器传输您的个人数据
+- 所有处理均在您的设备本地完成。部分功能可能在获得您授权的情况下与系统功能（如 Apple 健康）进行交互
 - 相机访问仅用于实时显示
+
+---
+
+## 健康数据（如适用）
+
+在获得您的授权后，本应用可能会将您的情绪或心理状态数据写入 Apple 健康。
+
+- 本应用不会读取或访问 Apple 健康中的任何数据  
+- 仅在您主动记录时才会写入相关数据  
+- 所有健康数据均由 Apple 进行存储和管理  
+
+根据设备或系统版本的不同，该功能可能使用 Apple 健康提供的相关分类（例如「正念」）。
+
+我们不会收集、存储或向外部服务器传输任何健康数据。
 
 ---
 
