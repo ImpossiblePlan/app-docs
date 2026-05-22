@@ -1,6 +1,6 @@
 miroro Terms of Service
 
-Last Updated: April 07, 2026
+Last Updated: May 22, 2026
 
 Welcome to miroro. Please read these Terms of Service carefully before using the App. By downloading, installing, or using the App, you agree to be bound by these Terms.
 
@@ -95,7 +95,7 @@ If you have any questions, suggestions, or concerns, please contact us:
 📧 chat@imp.chat
 
 miroro 用户协议
-最后更新日期：2026-04-07
+最后更新日期：2026-05-22
 欢迎使用miroro！在您使用本应用前，请仔细阅读本协议。您的下载、安装或使用即表示您同意本协议的全部条款。
 
 1. 服务内容
