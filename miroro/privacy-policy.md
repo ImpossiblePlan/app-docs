@@ -1,6 +1,6 @@
 # Privacy Policy for miroro
 
-Last Updated: April 07, 2026
+Last Updated: May 22, 2026
 
 ## Introduction
 
@@ -12,7 +12,10 @@ This Privacy Policy explains how information is handled when you use the miroro 
 
 The App may request access to the following:
 
-- **Camera** – Used for real-time mirror display.
+- **Camera** – Used for real-time mirror display and photo capture
+- **Photo Library (optional)** – Used to save photos to your device album
+- **iCloud (optional)** – Used for syncing user data across devices
+- **Apple In-App Purchase** – Used for Pro feature purchases and restoration
 
 ---
 
@@ -20,10 +23,73 @@ The App may request access to the following:
 
 - All data processing is performed locally on your device.
 - We do not collect or transmit personal data to our servers.
-- All processing is performed locally on your device. Certain features may interact with system frameworks (such as Apple Health) only with your explicit permission.
-- Camera access is used solely for real-time display.
+- All processing is performed locally on your device. 
+- No analytics or advertising tracking is performed
+- Camera data is used only for real-time preview and photo capture.
+Certain features may interact with Apple system services (such as iCloud or Apple Health) only with your explicit permission.
 
 ---
+
+## Photo Feature
+
+**Camera Access**
+The App requests camera access to:
+Provide real-time mirror display
+Enable photo capture functionality
+
+**Photo Storage**
+Photos taken within the App are stored locally on your device
+If you choose to save to your photo library, images will be stored in the system Photos app
+If not saved, photos remain inside the App sandbox until deleted
+
+**Data Handling**
+Photos are not uploaded to any server
+We do not collect, analyze, or transmit photos
+All image processing occurs locally on your device
+
+**Photo Library Permission**
+If you choose to save photos, the App will request permission to write to your system photo library. This permission can be managed in your device settings.
+
+---
+
+## iCloud Functionality
+
+The App provides optional iCloud sync features to improve multi-device experience.
+
+**iCloud Data Sync**
+If enabled, the following data may be synced via Apple iCloud:
+App settings (e.g., preferences)
+UI customization data (e.g., Brightness Control)
+Photo backups (if user enables iCloud photo sync feature)
+Pro purchase status (for restore purposes)
+
+**Apple ID Association**
+iCloud data is linked to your Apple ID
+Data is stored on Apple-managed iCloud servers and governed by Apple’s privacy policies
+
+**User Control**
+Users can disable iCloud syncing at any time in iOS system settings
+Disabling iCloud will not affect local app functionality
+
+---
+
+## Pro (One-Time Purchase)
+
+**Purchase Handling**
+All payments are processed securely through Apple In-App Purchase
+We do not collect or store any payment information
+
+**Transaction Data**
+Purchase validation is handled by Apple
+The App may store a local record of purchase status for feature unlocking
+Receipt verification is managed through Apple’s system
+
+**Purchase Restore**
+Purchases are associated with your Apple ID
+You can restore purchases at any time using the “Restore Purchases” feature
+
+---
+
 ## Health Data (if applicable)
 
 With your permission, the App may write mood or mental state data to Apple Health.
@@ -40,11 +106,10 @@ We do not collect, store, or transmit any health data to external servers.
 
 ## Data Storage and Security
 
-- All data is stored locally on your device.
-- The App does not share data with third parties.
-- No data is collected for analytics or advertising purposes.
-- Camera data is used only for real-time display.
-- The App securely stores data locally on your device.
+- All non-iCloud data is stored locally on your device.
+- No third-party data sharing.
+- No advertising or analytics tracking.
+- Camera and photo data never leave your device unless explicitly saved via Apple system services (Photos or iCloud).
 
 ---
 
@@ -53,7 +118,9 @@ We do not collect, store, or transmit any health data to external servers.
 You may:
 
 - Manage app permissions through your device settings.
+- Disable iCloud sync at any time.
 - Delete all App data by uninstalling the App.
+- Restore purchases via Apple ID
 
 ---
 
@@ -76,7 +143,7 @@ If you have any questions about this privacy policy, please contact us at [ chat
 
 # 隐私政策 — miroro
 
-最后更新日期：2026-04-07
+最后更新日期：2026-05-22
 
 ## 简介
 
@@ -90,7 +157,10 @@ If you have any questions about this privacy policy, please contact us at [ chat
 
 本应用可能请求以下权限：
 
-- **相机权限** —— 用于实时镜像显示
+- 相机权限 —— 用于实时镜像显示与拍照功能
+- 相册权限（可选） —— 用于将照片保存到系统相册
+- iCloud（可选） —— 用于多设备数据同步
+- 应用内购买权限 —— 用于 Pro 功能购买与恢复
 
 ---
 
@@ -98,10 +168,58 @@ If you have any questions about this privacy policy, please contact us at [ chat
 
 - 所有数据处理均在您的设备本地完成  
 - 我们不会收集或向服务器传输您的个人数据
-- 所有处理均在您的设备本地完成。部分功能可能在获得您授权的情况下与系统功能（如 Apple 健康）进行交互
-- 相机访问仅用于实时显示
+- 所有处理均在您的设备本地完成 部分功能可能在获得您授权的情况下与系统功能（如 iCloud、Apple 健康）进行交互
+- 不进行任何广告或用户行为分析
+- 相机数据仅用于实时预览与拍照功能
 
 ---
+
+## 拍照功能
+- 相机权限
+本应用请求相机权限用于：
+· 实时镜子显示
+· 拍照功能
+- 照片存储
+· 拍摄的照片默认存储在本地设备
+· 若选择保存，将写入系统相册（Photos App）
+- 数据处理
+· 照片不会上传到任何服务器
+· 我们不会收集、分析或传输任何照片数据
+· 所有处理均在设备本地完成
+- 相册权限
+· 如需保存照片至系统相册，将请求相册写入权限。用户可在系统设置中随时关闭。
+
+---
+
+## iCloud 功能
+本应用提供可选 iCloud 同步，用于多设备使用体验。
+- 同步内容
+开启后可能同步以下数据：
+· 应用设置（镜框、偏好设置等）
+· UI 个性化配置
+· 照片备份（如用户启用相关功能）
+· Pro 购买状态（用于恢复购买）
+- Apple ID 关联
+· 数据与您的 Apple ID 关联
+· 数据存储在 Apple 管理的 iCloud 服务器中
+· 受 Apple 隐私政策保护
+- 用户控制
+· 用户可在系统设置中随时关闭 iCloud 同步
+· 关闭后不影响本地使用
+
+---
+
+## Pro 付费功能（一次性买断）
+- 购买方式
+· 所有支付由 Apple 应用内购（In-App Purchase）完成
+· 我们不会收集任何支付信息
+- 交易数据
+· 交易由 Apple 处理与验证
+· App 仅在本地保存购买状态用于解锁功能
+· 收据验证由 Apple 系统完成
+- 恢复购买
+· 购买记录与 Apple ID 绑定
+· 可通过“恢复购买”功能重新获取 Pro 权限
 
 ## 健康数据（如适用）
 
@@ -119,11 +237,11 @@ If you have any questions about this privacy policy, please contact us at [ chat
 
 ## 数据存储与安全
 
-- 所有数据仅存储在您的设备本地   
+- 非 iCloud 数据仅存储在设备本地
 - 不与任何第三方共享数据  
 - 不收集用于分析或广告的数据  
 - 相机数据仅用于实时显示
-- 应用将数据安全地存储在本地设备
+- 相机与照片数据不会离开设备，除非用户主动保存至 Apple 系统服务
 
 ---
 
@@ -131,8 +249,10 @@ If you have any questions about this privacy policy, please contact us at [ chat
 
 您可以：
 
-- 通过设备设置管理应用权限  
-- 卸载应用以删除所有本地应用数据  
+- 通过设备设置管理应用权限
+- 随时关闭 iCloud 同步
+- 卸载应用以删除所有本地应用数据
+- 使用 Apple ID 恢复购买
 
 ---
 
