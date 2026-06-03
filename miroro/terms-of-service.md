@@ -92,7 +92,7 @@ We reserve the right to interpret and supplement these Terms as necessary.
 
 14. Contact Us
 If you have any questions, suggestions, or concerns, please contact us:
-📧 chat@imp.chat
+📧 miroro-support@impossible.club
 
 miroro 用户协议
 最后更新日期：2026-05-22
@@ -184,4 +184,4 @@ miroro 采用隐私优先的设计理念：
 依照相关法律法规及平台政策执行，开发者有权根据实际情况对协议进行补充和解释。
 
 15. 联系方式
-如有任何疑问、建议或投诉，请通过应用内“联系我们”或官方邮箱 chat@imp.chat 与我们联系。
+如有任何疑问、建议或投诉，请通过应用内“联系我们”或官方邮箱 miroro-support@impossible.club 与我们联系。
