@@ -138,7 +138,7 @@ If this Privacy Policy is updated, we will notify users within the App or throug
 
 ## Contact Us
 
-If you have any questions about this privacy policy, please contact us at [ chat@imp.chat ].
+If you have any questions about this privacy policy, please contact us at [ miroro-support@impossible.club ].
 
 
 # 隐私政策 — miroro
@@ -271,4 +271,4 @@ If you have any questions about this privacy policy, please contact us at [ chat
 
 ## 联系我们
 
-如有任何关于本隐私政策的问题，请通过 [ chat@imp.chat ] 联系我们。
+如有任何关于本隐私政策的问题，请通过 [ miroro-support@impossible.club ] 联系我们。
